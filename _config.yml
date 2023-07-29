@@ -34,9 +34,9 @@ additional_links:
 - title: DyausLab
   icon: fas fa-globe
   url: https://dyauslab.github.io/
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: Substack
+  icon: fas fa-globe
+  url: https://dyauslab.substack.com/
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -138,13 +138,13 @@ content:
   - title: Education # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      Masters and Bachelor at Compuster Science and Engineering. Attended at
+      Master's and Bachelor's at Compuster Science. Attended at:
       - UBC
       - Dongguk Univ
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in technology, I enjoy :
+      Alongside my interests in technology, I enjoy:
       - Running(5k ~ 10 miles)
       - Workout at The Weight room
       - skiing, surfing, jetskiing (no expert, just enjoying)
