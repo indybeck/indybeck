@@ -92,7 +92,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           exploring and discussing with creative minds in following area:
           - Manutacturing
-          - Agriculture (Hydrophonics and AI, as an example)
+          - Agriculture (Hydroponics and AI, as an example)
           - Healthcare automation
           - DevOps and MLops & automation using AI
       - layout: left
